@@ -1,0 +1,5 @@
+﻿  Main_date.cpp
+C:\Users\Кирилл\OneDrive\Рабочий стол\OOP_Class\OOP_Class\Main_date.cpp(21,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Кирилл\OneDrive\Рабочий стол\OOP_Class\OOP_Class\Main_date.cpp(22,40): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Кирилл\OneDrive\Рабочий стол\OOP_Class\OOP_Class\Main_date.cpp(29,33): warning C4101: e: неиспользованная локальная переменная
+  OOP_Class.vcxproj -> C:\Users\Кирилл\OneDrive\Рабочий стол\OOP_Class\x64\Debug\OOP_Class.exe
